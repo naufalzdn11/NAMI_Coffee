@@ -1,0 +1,6 @@
+{
+  "name": "NAMI Coffee - Artisanal Specialty Roasters & Cafe",
+  "description": "Official website for NAMI Coffee: artisanal single-origin coffee roastery, handcrafted beverages, freshly baked pastries, interactive brew calculator, and online ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
